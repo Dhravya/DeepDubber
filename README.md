@@ -46,6 +46,9 @@ python ./src/main.py
 
 I've only tested this on Windows, but it should work on linux and MacOS too.
 
+And now, sit back and enjoy the magic! ✨ 
+![Terminal](./assets/terminal.png)
+
 
 ## Made possible by:
 - [Dev.to](https://dev.to)
