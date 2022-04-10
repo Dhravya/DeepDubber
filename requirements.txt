@@ -1,0 +1,6 @@
+moviepy==1.0.3
+deepgram-sdk==0.2.5
+rich==12.2.0
+python-dotenv==0.20.0
+googletrans==3.1.0a0
+gTTs==2.2.4
